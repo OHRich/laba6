@@ -1,0 +1,11 @@
+﻿  lb5.2.cpp
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(44,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(62,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(63,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(64,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(65,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(66,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(67,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(77,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\lb5.2\lb5.2.cpp(310,27): warning C4101: temp2: неиспользованная локальная переменная
+  lb5.2.vcxproj -> C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba6\lb5.2\x64\Debug\lb5.2.exe
